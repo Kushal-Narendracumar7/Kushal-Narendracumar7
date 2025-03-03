@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Kushal! 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F76C6C&center=true&vCenter=true&width=500&lines=Data+Analyst+📊+%7C+Python+Developer+🐍;Django+%7C+SQL+%7C+PowerBI;Metaverse+Explorer+🌐;Lifelong+Learner+%E2%9C%85+;Let's+Build+Something+Awesome+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F76C6C&center=true&vCenter=true&width=500&lines=Data+Analyst+📊+%7C+Python+Developer+🐍;Django+%7C+SQL+%7C+PowerBI;Tech+World+Explorer+🌐;Lifelong+Learner+%E2%9C%85+;Let's+Build+Something+Awesome+🔥" />
 </p>
 
 <p align="center">
