@@ -36,7 +36,6 @@
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kushal-bamania-08633a24a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Kushal-Narendracumar7)  
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)-Coming Soon 
 
 ---
 
