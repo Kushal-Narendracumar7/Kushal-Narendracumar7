@@ -20,22 +20,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,java,html,css,js,bootstrap,powerbi" />
-</p>
-
----
-
-## 🌟 My GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=redical" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,java,html,css,js,powerbi" />
 </p>
 
 ---
@@ -51,7 +36,7 @@
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kushal-bamania-08633a24a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Kushal-Narendracumar7)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)]-Coming Soon 
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)-Coming Soon 
 
 ---
 
