@@ -24,10 +24,10 @@
 ---
 
 ## 🚀 Projects & Work  
-🎬 **[Cinescope](#)** - Movie Review Website (Django-based)  
-📊 **[Layoff Data Dashboard](#)** - PowerBI analytics project  
-📈 **[E-Commerce Sales Analysis](#)** - Unlocking shopping trends  
-🎮 **[Coffee Consumption Analysis](#)** - PowerBI analytics project  
+🎬 **[Cinescope](https://github.com/Kushal-Narendracumar7/Cinescope-Your-Movie-companion)** - Movie Review Website (Django-based)  
+📊 **[Layoff Data Dashboard](https://github.com/Kushal-Narendracumar7/LayOff_Data_Analysis)** - PowerBI analytics project  
+📈 **[Amazon Sales Report](https://github.com/Kushal-Narendracumar7/Amazon_Sales_Report)** - Unlocking shopping trends  
+🎮 **[Coffee Consumption Analysis](https://github.com/Kushal-Narendracumar7/Amazon_Sales_Report)** - PowerBI and data visualization analytics project  
 
 ---
 
